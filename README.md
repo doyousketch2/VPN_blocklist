@@ -1,5 +1,5 @@
-Created a quick Python script to convert nginx blacklist to iptables entries  
-you can find the entries in output.txt
+Created a quick Python script to convert nginx blacklist to iptables entries.  
+**You can find the entries in output.txt**
 
 
 VPN blacklist
